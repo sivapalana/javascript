@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies" : {
+    "name1" : "https://github.com/sivapalana/javascript.git#5ce7db2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
